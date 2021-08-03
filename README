@@ -1,0 +1,5 @@
+Implementation of a matrix class (represents an image),
+and some basic image filters: Quantization, Blur, and Sobel.
+
+This exercise aimed at practicing Operators Overloading in C++,
+as well as using proper coding standards of the language.
